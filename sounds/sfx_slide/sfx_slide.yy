@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sfx_slide",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":0,
+  "channelFormat":0,
+  "compression":1,
+  "compressionQuality":10,
+  "conversionMode":0,
+  "duration":0.25084376,
+  "exportDir":"",
+  "name":"sfx_slide",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Sounds/Sound Effects/Player.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":32000,
+  "soundFile":"sfx_slide.wav",
+  "volume":1.0,
+}

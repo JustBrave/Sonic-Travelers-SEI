@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sfx_fire_dash",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":0,
+  "channelFormat":0,
+  "compression":1,
+  "compressionQuality":10,
+  "conversionMode":0,
+  "duration":0.830375,
+  "exportDir":"",
+  "name":"sfx_fire_dash",
+  "parent":{
+    "name":"Shield",
+    "path":"folders/Sounds/Sound Effects/Shield.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":32000,
+  "soundFile":"sfx_fire_dash.wav",
+  "volume":1.0,
+}

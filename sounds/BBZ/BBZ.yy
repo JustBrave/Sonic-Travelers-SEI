@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"BBZ",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":1,
+  "compressionQuality":0,
+  "conversionMode":0,
+  "duration":315.18768,
+  "exportDir":"",
+  "name":"BBZ",
+  "parent":{
+    "name":"Stage Music",
+    "path":"folders/Sounds/Music/Stage Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":32000,
+  "soundFile":"BBZ.mp3",
+  "volume":1.0,
+}

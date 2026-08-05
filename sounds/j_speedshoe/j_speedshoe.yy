@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"j_speedshoe",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":0,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":10,
+  "conversionMode":0,
+  "duration":24.685715,
+  "exportDir":"",
+  "name":"j_speedshoe",
+  "parent":{
+    "name":"Jingle Music",
+    "path":"folders/Sounds/Music/Jingle Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"j_speedshoe.ogg",
+  "volume":0.5,
+}

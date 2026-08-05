@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"TutorialPlacehold",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":0,
+  "channelFormat":1,
+  "compression":1,
+  "compressionQuality":10,
+  "conversionMode":0,
+  "duration":326.17072,
+  "exportDir":"",
+  "name":"TutorialPlacehold",
+  "parent":{
+    "name":"Stage Music",
+    "path":"folders/Sounds/Music/Stage Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":32000,
+  "soundFile":"TutorialPlacehold.mp3",
+  "volume":1.0,
+}
