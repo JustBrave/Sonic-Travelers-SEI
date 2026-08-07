@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sonic Travelers",
-    "path":"Sonic Travelers.yyp",
+    "name":"Clay",
+    "path":"folders/Tile Sets/Velocity Blossoms/Clay.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

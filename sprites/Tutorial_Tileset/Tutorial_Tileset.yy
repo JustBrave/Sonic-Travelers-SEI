@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sonic Travelers",
-    "path":"Sonic Travelers.yyp",
+    "name":"The Tutorial",
+    "path":"folders/Tile Sets/The Tutorial.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sonic Travelers",
-    "path":"Sonic Travelers.yyp",
+    "name":"Wood Platforms",
+    "path":"folders/Tile Sets/Velocity Blossoms/Wood Platforms.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

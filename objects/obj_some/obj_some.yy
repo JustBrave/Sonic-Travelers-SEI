@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sn_mek_obrazovky_2025_10_10_194759",
-    "path":"sprites/Sn_mek_obrazovky_2025_10_10_194759/Sn_mek_obrazovky_2025_10_10_194759.yy",
+    "name":"MarkThePlayers",
+    "path":"sprites/MarkThePlayers/MarkThePlayers.yy",
   },
   "spriteMaskId":null,
   "visible":true,

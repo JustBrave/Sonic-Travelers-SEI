@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_aaz_bg",
+  "%Name":"obj_VBZ_bg",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_aaz_bg",
+  "name":"obj_VBZ_bg",
   "overriddenProperties":[],
   "parent":{
-    "name":"Arboreal Agate",
-    "path":"folders/Objects/Stage Objects/Arboreal Agate.yy",
+    "name":"Velocity Blossoms",
+    "path":"folders/Objects/Stage Objects/Velocity Blossoms.yy",
   },
   "parentObjectId":{
     "name":"par_background",

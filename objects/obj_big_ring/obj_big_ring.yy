@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Sprite320",
-    "path":"sprites/Sprite320/Sprite320.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

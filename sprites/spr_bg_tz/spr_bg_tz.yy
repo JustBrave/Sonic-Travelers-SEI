@@ -31,8 +31,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sonic Travelers",
-    "path":"Sonic Travelers.yyp",
+    "name":"The Tutorial",
+    "path":"folders/Sprites/Stage Sprites/The Tutorial.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

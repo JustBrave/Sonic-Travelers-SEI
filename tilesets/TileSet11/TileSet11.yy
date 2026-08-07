@@ -12,8 +12,8 @@
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
-    "name":"Sonic Travelers",
-    "path":"Sonic Travelers.yyp",
+    "name":"Decoration",
+    "path":"folders/Tile Sets/Velocity Blossoms/Decoration.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",

@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sn_mek_obrazovky_2026_03_15_194302313",
-    "path":"sprites/Sn_mek_obrazovky_2026_03_15_194302313/Sn_mek_obrazovky_2026_03_15_194302313.yy",
+    "name":"Kellster",
+    "path":"sprites/Kellster/Kellster.yy",
   },
   "spriteMaskId":null,
   "visible":true,

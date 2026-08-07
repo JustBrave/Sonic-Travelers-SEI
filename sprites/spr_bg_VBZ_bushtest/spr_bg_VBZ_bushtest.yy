@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"spr_VBZ_bushtest",
+  "%Name":"spr_bg_VBZ_bushtest",
   "bboxMode":0,
   "bbox_bottom":149,
   "bbox_left":0,
@@ -24,19 +24,19 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"92a67c77-eee3-45db-81c6-1af6dc12e9bc","blendMode":0,"displayName":"default","isLocked":false,"name":"92a67c77-eee3-45db-81c6-1af6dc12e9bc","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_VBZ_bushtest",
+  "name":"spr_bg_VBZ_bushtest",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Arboreal Agate",
-    "path":"folders/Sprites/Stage Sprites/Arboreal Agate.yy",
+    "name":"Velocity Blossoms",
+    "path":"folders/Sprites/Stage Sprites/Velocity Blossoms.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"spr_VBZ_bushtest",
+    "%Name":"spr_bg_VBZ_bushtest",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -60,7 +60,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_VBZ_bushtest",
+    "name":"spr_bg_VBZ_bushtest",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -72,16 +72,16 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cfda29ad-8c71-4b79-a369-97278bc5a5c5","path":"sprites/spr_VBZ_bushtest/spr_VBZ_bushtest.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cfda29ad-8c71-4b79-a369-97278bc5a5c5","path":"sprites/spr_bg_VBZ_bushtest/spr_bg_VBZ_bushtest.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"c7c40434-9c37-46e3-a69d-661717858bba","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2a165d54-deb0-45e7-9ec1-4b8dd9bf96f8","path":"sprites/spr_VBZ_bushtest/spr_VBZ_bushtest.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2a165d54-deb0-45e7-9ec1-4b8dd9bf96f8","path":"sprites/spr_bg_VBZ_bushtest/spr_bg_VBZ_bushtest.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"5f400b30-b829-40b8-8d43-760919df382f","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b2b9b6a0-291d-466e-b367-97f0cd258daf","path":"sprites/spr_VBZ_bushtest/spr_VBZ_bushtest.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b2b9b6a0-291d-466e-b367-97f0cd258daf","path":"sprites/spr_bg_VBZ_bushtest/spr_bg_VBZ_bushtest.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"84b6c951-fb1c-42b1-9918-397b7fa8ebb1","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"983fb0b9-e36e-4020-acfe-9497ee90d80c","path":"sprites/spr_VBZ_bushtest/spr_VBZ_bushtest.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"983fb0b9-e36e-4020-acfe-9497ee90d80c","path":"sprites/spr_bg_VBZ_bushtest/spr_bg_VBZ_bushtest.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"700c27bd-9b20-4971-ab42-20af5fbf87b9","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

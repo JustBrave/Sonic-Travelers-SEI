@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_aaz_platform",
+  "%Name":"obj_VBZ_platform",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_aaz_platform",
+  "name":"obj_VBZ_platform",
   "overriddenProperties":[],
   "parent":{
-    "name":"Arboreal Agate",
-    "path":"folders/Objects/Stage Objects/Arboreal Agate.yy",
+    "name":"Velocity Blossoms",
+    "path":"folders/Objects/Stage Objects/Velocity Blossoms.yy",
   },
   "parentObjectId":{
     "name":"par_moving_platform",
@@ -45,8 +45,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"PlatformVBZ",
-    "path":"sprites/PlatformVBZ/PlatformVBZ.yy",
+    "name":"spr_VBZ_platform",
+    "path":"sprites/spr_VBZ_platform/spr_VBZ_platform.yy",
   },
   "spriteMaskId":null,
   "visible":true,

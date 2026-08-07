@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sonic Travelers",
-    "path":"Sonic Travelers.yyp",
+    "name":"Dirt Tilesets",
+    "path":"folders/Tile Sets/Velocity Blossoms/Dirt Tilesets.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

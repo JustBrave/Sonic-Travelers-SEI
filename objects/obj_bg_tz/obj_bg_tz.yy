@@ -8,8 +8,8 @@
   "name":"obj_bg_tz",
   "overriddenProperties":[],
   "parent":{
-    "name":"Sonic Travelers",
-    "path":"Sonic Travelers.yyp",
+    "name":"The Tutorial",
+    "path":"folders/Objects/Stage Objects/The Tutorial.yy",
   },
   "parentObjectId":{
     "name":"par_background",

@@ -12,8 +12,8 @@
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
-    "name":"Sonic Travelers",
-    "path":"Sonic Travelers.yyp",
+    "name":"Wood Platforms",
+    "path":"folders/Tile Sets/Velocity Blossoms/Wood Platforms.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
