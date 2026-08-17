@@ -141,5 +141,8 @@ function player_animation_list(){
 		animation_add(ANIM.VICTORY, spr_knuckles_victory, 0.1, 0, false, false);
 		animation_add(ANIM.TRANSFORM, spr_knuckles_transform, 0.4, 0, false, false);
 		break;
+		
+		case CHAR_MIGHTY:
+		animation_add(ANIM.STAND, spr_mighty_idle, 0.2, 0, true, false);
 	}
 }

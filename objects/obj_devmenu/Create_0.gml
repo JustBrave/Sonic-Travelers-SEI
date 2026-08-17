@@ -60,6 +60,7 @@
 	dev_menu_add_character("SONIC");
 	dev_menu_add_character("TAILS");
 	dev_menu_add_character("KNUCKLES");
+	dev_menu_add_character("MIGHTY");
 	
 	//Add all of option entries
 	dev_menu_add_option_number("Sound Volume", "sfx_volume", 0.0, 1.0, 0.05);

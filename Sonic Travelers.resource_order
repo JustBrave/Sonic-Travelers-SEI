@@ -19,6 +19,8 @@
     {"name":"Shaders","order":11,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":12,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":13,"path":"folders/Sprites.yy",},
+    {"name":"Mighty","order":1,"path":"folders/Sprites/Player Sprites/Mighty.yy",},
+    {"name":"Retsuya","order":2,"path":"folders/Sprites/Player Sprites/Retsuya.yy",},
     {"name":"Bonus Stage","order":3,"path":"folders/Sprites/Stage Sprites/Bonus Stage.yy",},
     {"name":"Bridge Zone","order":1,"path":"folders/Sprites/Stage Sprites/Bridge Zone.yy",},
     {"name":"Common Sprites","order":2,"path":"folders/Sprites/Stage Sprites/Common Sprites.yy",},

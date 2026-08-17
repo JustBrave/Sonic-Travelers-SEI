@@ -14,6 +14,7 @@
 				case CHAR_SONIC: monitor_icon = spr_monitor_icon_life_sonic; break;
 				case CHAR_TAILS: monitor_icon = spr_monitor_icon_life_tails; break;
 				case CHAR_KNUX: monitor_icon = spr_monitor_icon_life_knuckles; break;
+				case CHAR_MIGHTY: monitor_icon = spr_monitor_icon_life_sonic; break;
 			}
 		break;
 		case "Eggman": monitor_icon = spr_monitor_icon_eggman; break;
