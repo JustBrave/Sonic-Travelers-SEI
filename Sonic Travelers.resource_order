@@ -59,6 +59,7 @@
     {"name":"obj_gumball_lid","order":7,"path":"objects/obj_gumball_lid/obj_gumball_lid.yy",},
     {"name":"obj_gumball_machine","order":2,"path":"objects/obj_gumball_machine/obj_gumball_machine.yy",},
     {"name":"obj_gumball","order":5,"path":"objects/obj_gumball/obj_gumball.yy",},
+    {"name":"obj_jello","order":1,"path":"objects/obj_jello/obj_jello.yy",},
     {"name":"obj_red_ring","order":2,"path":"objects/obj_red_ring/obj_red_ring.yy",},
     {"name":"obj_side_bumper","order":1,"path":"objects/obj_side_bumper/obj_side_bumper.yy",},
     {"name":"obj_some","order":5,"path":"objects/obj_some/obj_some.yy",},

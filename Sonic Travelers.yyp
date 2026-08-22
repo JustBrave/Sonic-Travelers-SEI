@@ -246,6 +246,7 @@
     {"id":{"name":"obj_hud","path":"objects/obj_hud/obj_hud.yy",},},
     {"id":{"name":"obj_input","path":"objects/obj_input/obj_input.yy",},},
     {"id":{"name":"obj_invinciblespark","path":"objects/obj_invinciblespark/obj_invinciblespark.yy",},},
+    {"id":{"name":"obj_jello","path":"objects/obj_jello/obj_jello.yy",},},
     {"id":{"name":"obj_layer_switch","path":"objects/obj_layer_switch/obj_layer_switch.yy",},},
     {"id":{"name":"obj_level","path":"objects/obj_level/obj_level.yy",},},
     {"id":{"name":"obj_loop_end","path":"objects/obj_loop_end/obj_loop_end.yy",},},

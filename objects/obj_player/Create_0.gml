@@ -121,7 +121,8 @@
 	[
 		[9, 19],	//Sonic's hitbox
 		[9, 15],	//Tails' hitbox
-		[9, 19]		//Knuckles' hitbox
+		[9, 19],	//Knuckles' hitbox
+		[9, 19],	//Mightys' hitbox
 	]
 	
 	//Rolling hitbox unique to each character
@@ -129,7 +130,8 @@
 	[
 		[7, 14],	//Sonic's hitbox
 		[7, 14],	//Tails' hitbox
-		[7, 14]		//Knuckles' hitbox
+		[7, 14],	//Knuckles' hitbox
+		[7, 14],	//Mightys' hitbox
 	]
 	
 	//Camera rolling offset unique to each character
