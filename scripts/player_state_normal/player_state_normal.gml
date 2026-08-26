@@ -126,6 +126,13 @@ function player_state_normal(){
 				anim = ANIM.WAIT;	
 			}
 		break;
+		
+		case CHAR_MIGHTY:
+			if(idle_timer > 160)
+			{
+				anim = ANIM.WAIT;	
+			}
+		break;
 	}
 	
 	
