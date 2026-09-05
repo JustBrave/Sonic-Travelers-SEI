@@ -76,6 +76,8 @@ function player_handle_hurt()
 						}
 					}
 					
+					if double_ring == true double_ring = false;
+					
 					//Remove the shield when player gets hurt
 					if(shield != S_NONE)
 					{

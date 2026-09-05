@@ -139,7 +139,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2026.0.0.16",
+    "IDEVersion":"2024.14.4.222",
   },
   "name":"Sonic Travelers",
   "resources":[
@@ -310,6 +310,7 @@
     {"id":{"name":"rm_splash","path":"rooms/rm_splash/rm_splash.yy",},},
     {"id":{"name":"rm_stage_select","path":"rooms/rm_stage_select/rm_stage_select.yy",},},
     {"id":{"name":"rm_sugaria_tropica_zone","path":"rooms/rm_sugaria_tropica_zone/rm_sugaria_tropica_zone.yy",},},
+    {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
     {"id":{"name":"rm_tutorial","path":"rooms/rm_tutorial/rm_tutorial.yy",},},
     {"id":{"name":"rm_velocity_blossoms_zone_1","path":"rooms/rm_velocity_blossoms_zone_1/rm_velocity_blossoms_zone_1.yy",},},
     {"id":{"name":"add_background","path":"scripts/add_background/add_background.yy",},},
@@ -422,6 +423,7 @@
     {"id":{"name":"sfx_checkpoint","path":"sounds/sfx_checkpoint/sfx_checkpoint.yy",},},
     {"id":{"name":"sfx_combinering","path":"sounds/sfx_combinering/sfx_combinering.yy",},},
     {"id":{"name":"sfx_destro","path":"sounds/sfx_destro/sfx_destro.yy",},},
+    {"id":{"name":"sfx_double_ring","path":"sounds/sfx_double_ring/sfx_double_ring.yy",},},
     {"id":{"name":"sfx_dropdash","path":"sounds/sfx_dropdash/sfx_dropdash.yy",},},
     {"id":{"name":"sfx_drown","path":"sounds/sfx_drown/sfx_drown.yy",},},
     {"id":{"name":"sfx_dust","path":"sounds/sfx_dust/sfx_dust.yy",},},
@@ -432,6 +434,7 @@
     {"id":{"name":"sfx_handle_pull","path":"sounds/sfx_handle_pull/sfx_handle_pull.yy",},},
     {"id":{"name":"sfx_hurt","path":"sounds/sfx_hurt/sfx_hurt.yy",},},
     {"id":{"name":"sfx_hydroplaning","path":"sounds/sfx_hydroplaning/sfx_hydroplaning.yy",},},
+    {"id":{"name":"sfx_jello","path":"sounds/sfx_jello/sfx_jello.yy",},},
     {"id":{"name":"sfx_jump","path":"sounds/sfx_jump/sfx_jump.yy",},},
     {"id":{"name":"sfx_land","path":"sounds/sfx_land/sfx_land.yy",},},
     {"id":{"name":"sfx_peelout_charge","path":"sounds/sfx_peelout_charge/sfx_peelout_charge.yy",},},
@@ -564,6 +567,7 @@
     {"id":{"name":"spr_crumple_spring","path":"sprites/spr_crumple_spring/spr_crumple_spring.yy",},},
     {"id":{"name":"spr_cucky","path":"sprites/spr_cucky/spr_cucky.yy",},},
     {"id":{"name":"spr_debug_spawn","path":"sprites/spr_debug_spawn/spr_debug_spawn.yy",},},
+    {"id":{"name":"spr_double_ring_HUD","path":"sprites/spr_double_ring_HUD/spr_double_ring_HUD.yy",},},
     {"id":{"name":"spr_dust_effect","path":"sprites/spr_dust_effect/spr_dust_effect.yy",},},
     {"id":{"name":"spr_editor_eggman","path":"sprites/spr_editor_eggman/spr_editor_eggman.yy",},},
     {"id":{"name":"spr_editor_region_object","path":"sprites/spr_editor_region_object/spr_editor_region_object.yy",},},
@@ -824,6 +828,7 @@
     {"roomId":{"name":"rm_destiny_time_zone","path":"rooms/rm_destiny_time_zone/rm_destiny_time_zone.yy",},},
     {"roomId":{"name":"rm_raging_rails_zone","path":"rooms/rm_raging_rails_zone/rm_raging_rails_zone.yy",},},
     {"roomId":{"name":"rm_sugaria_tropica_zone","path":"rooms/rm_sugaria_tropica_zone/rm_sugaria_tropica_zone.yy",},},
+    {"roomId":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[

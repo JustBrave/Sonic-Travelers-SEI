@@ -10,3 +10,5 @@
 		play_sound(sfx_spike);
 		player_hurt(center_x);
 	}
+	
+	if !on_screen instance_deactivate_object(id) // very friendly code that disables shit when its offscreen

@@ -51,8 +51,13 @@
 		draw_text(68 + offset[3], global.window_height - 24, (global.life > 9 ? "" : "0") + string(global.life));
 		
 		if (obj_player.combinering == 1){
-			draw_sprite(spr_combine_ring_HUD, 0, 16 + offset[2], 40);	
+			draw_sprite(spr_combine_ring_HUD, 0, 16 + offset[2], 40);
 		}
+		
+		if (obj_player.double_ring == true){
+			draw_sprite(spr_double_ring_HUD, 0, 16 + offset[0], 40);	
+		}
+		
 		if (obj_player.combineloss == 1){
 			if (FRAME_TIMER mod 2 = 0){
 				draw_sprite(spr_combine_ring_HUD, 0, 16 + offset[2], 40);	
@@ -76,6 +81,10 @@
 		
 		if (obj_player.combinering == 1){
 			draw_sprite(spr_combine_ring_HUD, 0, 16 + offset[0], 40);	
+		}
+		
+		if (obj_player.double_ring == true){
+			draw_sprite(spr_double_ring_HUD, 0, 16 + offset[0], 40);	
 		}
 	}
 	
@@ -133,7 +142,8 @@
 		{
 			var debug_offset = 0;
 			if(instance_exists(obj_dev)) debug_offset = -128 * obj_dev.debug;
-			offset[i] = approach(offset[i], debug_offset, 8);	
+			// Remove the // if you want the old hud scroll back offset[i] = approach(offset[i], debug_offset, 8);	
+			offset[i] = lerp(offset[i], debug_offset, 0.15) // Remove this if you fucking despise smooth hud scrolling
 		}
 	}
 	

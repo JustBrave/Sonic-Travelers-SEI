@@ -50,6 +50,7 @@
 	idle_timer = 0;						//Timer used for idle animation
 	spindash_dust_frames = 0;			//Used to animate spindash dust frame
 	dropdash_from_wall = false;			//It does something alright
+	double_ring = false;
 	
 	//Check variables:
 	ground = true;						//Check used to check if player is on ground or not

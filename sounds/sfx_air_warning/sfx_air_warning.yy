@@ -10,7 +10,7 @@
   "compression":1,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":1.2106802,
+  "duration":0.0,
   "exportDir":"",
   "name":"sfx_air_warning",
   "parent":{

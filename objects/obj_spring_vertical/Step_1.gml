@@ -61,3 +61,5 @@
 			}
 		}
 	}
+	
+	if !on_screen instance_deactivate_object(id) // very friendly code that disables shit when its offscreen

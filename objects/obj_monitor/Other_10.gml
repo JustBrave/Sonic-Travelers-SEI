@@ -19,4 +19,5 @@
 		break;
 		case "Eggman": monitor_icon = spr_monitor_icon_eggman; break;
 		case "Combine Ring": monitor_icon = spr_monitor_icon_combine_ring; break;
+		case "Double Ring": monitor_icon = spr_monitor_icon_10ring; break;
 	} 

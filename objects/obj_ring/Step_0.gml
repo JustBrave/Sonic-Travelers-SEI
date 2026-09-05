@@ -11,11 +11,22 @@
     //Collect
     if(player_collide_object(C_MAIN) && obj_player.state != player_state_knockout)
     {
-		//Play the sound
-		play_sound(sfx_ring);
-		
         //Add rings!
-        global.rings += 1;    
+		with obj_player
+		{
+			if !double_ring
+			{
+				//Play the sound
+				play_sound(sfx_ring);
+				global.rings += 1;
+			}
+			else
+			{
+				//Play the sound
+				play_sound(sfx_double_ring);
+				global.rings += 2;
+			}
+		}
         
         //Create the effect
         create_effect(x, y, spr_ring_sparkle, 0.2);

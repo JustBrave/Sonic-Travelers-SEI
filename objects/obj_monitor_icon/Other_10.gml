@@ -49,4 +49,9 @@
 			play_sound(sfx_combinering);
 		break;
 		
+		case "Double Ring":
+			obj_player.double_ring = true;
+			play_sound(sfx_combinering);
+		break;
+		
 	}

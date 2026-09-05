@@ -10,7 +10,7 @@
   "compression":1,
   "compressionQuality":10,
   "conversionMode":0,
-  "duration":0.6180272,
+  "duration":1.499875,
   "exportDir":"",
   "name":"sfx_ring",
   "parent":{

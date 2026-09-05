@@ -1,18 +1,18 @@
 {
   "$GMSound":"v2",
-  "%Name":"sfx_ringloss",
+  "%Name":"sfx_double_ring",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
-  "bitDepth":0,
-  "channelFormat":0,
+  "bitDepth":1,
+  "channelFormat":2,
   "compression":1,
   "compressionQuality":10,
   "conversionMode":0,
-  "duration":0.0,
+  "duration":3.6959865,
   "exportDir":"",
-  "name":"sfx_ringloss",
+  "name":"sfx_double_ring",
   "parent":{
     "name":"Objects",
     "path":"folders/Sounds/Sound Effects/Objects.yy",
@@ -20,7 +20,7 @@
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
-  "sampleRate":32000,
-  "soundFile":"sfx_ringloss.wav",
+  "sampleRate":44100,
+  "soundFile":"sfx_double_ring.mp3",
   "volume":1.0,
 }
