@@ -22,5 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":32000,
   "soundFile":"VBZ.mp3",
-  "volume":0.9,
+  "volume":0.8,
 }

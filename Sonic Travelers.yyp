@@ -139,7 +139,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.4.222",
+    "IDEVersion":"2026.0.0.16",
   },
   "name":"Sonic Travelers",
   "resources":[
@@ -655,6 +655,7 @@
     {"id":{"name":"spr_monitor_icon_life_tails","path":"sprites/spr_monitor_icon_life_tails/spr_monitor_icon_life_tails.yy",},},
     {"id":{"name":"spr_monitor_icon_shield","path":"sprites/spr_monitor_icon_shield/spr_monitor_icon_shield.yy",},},
     {"id":{"name":"spr_monitor_icon_shoes","path":"sprites/spr_monitor_icon_shoes/spr_monitor_icon_shoes.yy",},},
+    {"id":{"name":"spr_monitor_ring_doubler","path":"sprites/spr_monitor_ring_doubler/spr_monitor_ring_doubler.yy",},},
     {"id":{"name":"spr_monitor_signeditor","path":"sprites/spr_monitor_signeditor/spr_monitor_signeditor.yy",},},
     {"id":{"name":"spr_monitor_static","path":"sprites/spr_monitor_static/spr_monitor_static.yy",},},
     {"id":{"name":"spr_monitor","path":"sprites/spr_monitor/spr_monitor.yy",},},
