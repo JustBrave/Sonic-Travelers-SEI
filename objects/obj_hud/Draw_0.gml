@@ -142,8 +142,7 @@
 		{
 			var debug_offset = 0;
 			if(instance_exists(obj_dev)) debug_offset = -128 * obj_dev.debug;
-			// Remove the // if you want the old hud scroll back offset[i] = approach(offset[i], debug_offset, 8);	
-			offset[i] = lerp(offset[i], debug_offset, 0.15) // Remove this if you fucking despise smooth hud scrolling
+			offset[i] = approach(offset[i], debug_offset, 8);
 		}
 	}
 	

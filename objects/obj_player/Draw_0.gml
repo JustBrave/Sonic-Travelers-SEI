@@ -10,7 +10,7 @@
 		{
 			for (var i = 0; i < 3; ++i) 
 			{
-				//if((FRAME_TIMER mod 3) = i )
+				if((FRAME_TIMER mod 3) = i )
 				{
 					if(x_speed != 0 || y_speed != 0)
 					{

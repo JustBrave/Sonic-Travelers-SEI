@@ -2,8 +2,21 @@
 	switch(monitor_type)
 	{
 		case "10 Rings":
-			global.rings += 10;
-			play_sound(sfx_superring);
+		with obj_player
+		{
+			if !double_ring
+			{
+				//Play the sound
+				play_sound(sfx_superring);
+				global.rings += 10;
+			}
+			else
+			{
+				//Play the sound
+				play_sound(sfx_double_ring);
+				global.rings += 20;
+			}
+		}
 		break;
 		
 		case "Shield":
