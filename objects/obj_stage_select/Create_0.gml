@@ -12,6 +12,10 @@
     ["TUTORIAL", rm_tutorial],
 	["VELOCITY BLOSSOMS", rm_velocity_blossoms_zone_1, rm_arboreal_agate2],
     ["BRICK BLAST", rm_brick_blast_zone],
+	["CRACK FACILITY", rm_destiny_time_zone],
+	["ADOPTION CENTER", rm_raging_rails_zone],
+	["SUGARIA TROPICA", rm_sugaria_tropica_zone],
+	["WEED TESTING AREA", rm_test],
 	];
 
 	
