@@ -67,7 +67,7 @@ function player_animation_list(){
 		animation_add(ANIM.SPINDASH, spr_sonic_spindash, 1.5, 0, true, false);
 		animation_add(ANIM.SPRING, spr_sonic_spring, 0.3, 0, true, false);
 		animation_add(ANIM.SPRING1, spr_sonic_spring_1, 0.45, 0, true, false);
-		animation_add(ANIM.SKID, spr_sonic_skid, 0.4, 0, false, false);
+		animation_add(ANIM.SKID, spr_sonic_skid, 0.4, 4, true, false);
 		animation_add(ANIM.SKIDTURN, spr_sonic_skidturn, 0.3, 0, false, false);
 		animation_add(ANIM.HURT, spr_sonic_hurt, 0.3, 0, false, false);
 		animation_add(ANIM.DIE, spr_sonic_death, 0.3, 0, false, false);
