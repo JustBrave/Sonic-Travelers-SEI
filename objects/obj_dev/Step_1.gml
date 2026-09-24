@@ -15,7 +15,7 @@
 	//Go to level select
 	if(keyboard_check_pressed(ord("M")) && !obj_shell.isOpen)
 	{
-		fade_to_room(rm_stage_select, 4);
+		fade_to_room(rm_tutorial, 4);
 		music_set_fade(FADE_OUT, 5);
 	}
 	

@@ -67,7 +67,7 @@
 	dev_menu_add_option_number("Music Volume", "bgm_volume", 0.0, 1.0, 0.05);
 	dev_menu_add_option_number("Window Width", "window_width", 128, 1920, 1);
 	dev_menu_add_option_number("Window Height", "window_height", 128, 1920, 1);
-	dev_menu_add_option_number("Window Size", "window_size", 1, 4, 1);
+	dev_menu_add_option_number("Window Size", "window_size", 4, 4, 4);
 	dev_menu_add_option_number("Camera Pan", "camera_pan_type", 0, 2, 1);
 	dev_menu_add_option_flag("Mania Camera", "camera_type");
 	dev_menu_add_option_flag("Spindash Flag", "use_spindash");

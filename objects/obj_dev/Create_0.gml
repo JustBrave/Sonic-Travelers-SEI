@@ -14,6 +14,6 @@
 	caption = window_get_caption();
 	teleport_id = 0;
 	
-	graded_surf = surface_create(WINDOW_WIDTH * 2, WINDOW_HEIGHT * 2);
+	graded_surf = surface_create(WINDOW_WIDTH * 4, WINDOW_HEIGHT * 4);
 	
 	depth = -1000;

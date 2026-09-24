@@ -26,7 +26,7 @@
 	//Screen values
 	global.window_width  = 426;				//Window's horizontal size
 	global.window_height = 240;				//Window's vertical size
-	global.window_size   = 2;				//Window size multiplier
+	global.window_size   = 4;				//Window size multiplier
 	
 	//keyboard inputs
 	global.up = vk_up;						
@@ -39,8 +39,8 @@
     global.start = vk_enter;
 	
 	//Setup volume
-	global.bgm_volume = 1;					//Music's channel volume
-	global.sfx_volume = 1;					//Sound effects volume
+	global.bgm_volume = 0.5;					//Music's channel volume
+	global.sfx_volume = 0.5;					//Sound effects volume
 	
 	//Checkpoint values
 	global.checkpoint = ds_list_create();	//The list of active checkpoints
@@ -91,7 +91,7 @@
 	global.camera_type = 1;					//Vertical camera scrolling type, 0 = Megadrive, 1 = Mania
 	global.knux_camera_smooth = false;		//Flag for using smooth ledge climb camera movement
 	global.water_running_effect = 0;		//0 for the hydrocity effect, 1 for repeating splashes
-	global.no_skid_state = true;			//makes skidding work closer to the genesis games, instead of a seperate state
+	global.no_skid_state = false;			//makes skidding work closer to the genesis games, instead of a seperate state
 	
 	//Font setup:
 	global.hud_number = font_add_sprite(spr_hud_numbers, ord("0"), false, 0);
