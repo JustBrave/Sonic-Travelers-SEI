@@ -26,7 +26,7 @@
 	//Screen values
 	global.window_width  = 426;				//Window's horizontal size
 	global.window_height = 240;				//Window's vertical size
-	global.window_size   = 4;				//Window size multiplier
+	global.window_size   = 3;				//Window size multiplier
 	
 	//keyboard inputs
 	global.up = vk_up;						

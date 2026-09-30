@@ -131,6 +131,7 @@
     {"name":"Uncurl","order":6,"path":"sounds/Uncurl/Uncurl.yy",},
     {"name":"VBZ","order":4,"path":"sounds/VBZ/VBZ.yy",},
     {"name":"_0","order":6,"path":"sprites/_0/_0.yy",},
+    {"name":"BloomingElevator","order":26,"path":"sprites/BloomingElevator/BloomingElevator.yy",},
     {"name":"DarkClay_incase_","order":23,"path":"sprites/DarkClay_incase_/DarkClay_incase_.yy",},
     {"name":"DarkDirt","order":22,"path":"sprites/DarkDirt/DarkDirt.yy",},
     {"name":"dup","order":19,"path":"sprites/dup/dup.yy",},
@@ -225,6 +226,7 @@
     {"name":"TileSet17","order":18,"path":"tilesets/TileSet17/TileSet17.yy",},
     {"name":"TileSet18","order":2,"path":"tilesets/TileSet18/TileSet18.yy",},
     {"name":"TileSet19","order":1,"path":"tilesets/TileSet19/TileSet19.yy",},
+    {"name":"TileSet20","order":27,"path":"tilesets/TileSet20/TileSet20.yy",},
     {"name":"TileSet7","order":4,"path":"tilesets/TileSet7/TileSet7.yy",},
   ],
 }
